@@ -6,12 +6,7 @@ screenHeight = 500
 screenWidth = 500
 playerX = 10
 playerY = 10
-BulletX = playerX
-BulletY = playerY
-PlayerVelocity = 5
-BulletVelocity = 6
-BulletLife = 300
-BulletShoot = True
+
 
 
 screen = pygame.display.set_mode((screenHeight,screenWidth))
