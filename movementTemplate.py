@@ -14,7 +14,7 @@ PlayerVelocity = 5
 #making the game window with a height and width value which is defined onthe top. To chnage the screen dimesions change the screenWidht or screeHeight value
 screen = pygame.display.set_mode((screenHeight,screenWidth))
 #setting the window name as "First Python Game"
-pygame.display.set_caption("First Python Game")
+pygame.display.set_caption("Python Movement Template")
 
 
 
